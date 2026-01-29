@@ -1,0 +1,24 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "This assignment involves designing and implementing an API and UI for managing promotional offers and influencer payouts. The system must support dynamic payout rules, influencer-specific overrides, and present offers from the perspective of individual influencers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armsah/Influencer-Offer-Management-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/armsah/Influencer-Offer-Management-System/issues"
+  },
+  "homepage": "https://github.com/armsah/Influencer-Offer-Management-System#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

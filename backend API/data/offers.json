@@ -1,0 +1,71 @@
+[
+  {
+    "id": "offer_1",
+    "title": "Crypto Wallet Signup",
+    "description": "Promote our new crypto wallet",
+    "categories": [
+      "Finance",
+      "Tech"
+    ]
+  },
+  {
+    "id": "offer_2",
+    "title": "Investing Tips for Beginners",
+    "description": "Practical guidance on stock market investing.",
+    "categories": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "offer_3",
+    "title": "Gaming Setup",
+    "description": "In this package included all modern toolkit.",
+    "categories": [
+      "IT",
+      "Network"
+    ]
+  },
+  {
+    "id": "offer_4",
+    "title": "Protein Powder",
+    "description": "Health-focused protein supplement",
+    "categories": [
+      "Health",
+      "Nutrition"
+    ]
+  },
+  {
+    "id": "offer_5",
+    "title": "Emma Chamberlain",
+    "description": "Gen-Z favorite blending high fashion with authenticity",
+    "categories": [
+      "Fashion"
+    ]
+  },
+  {
+    "id": "offer_1769692321365",
+    "title": "Toblerone",
+    "description": "The best chocolate bars from Switzerland.",
+    "categories": [
+      "Food",
+      "Nutrition"
+    ]
+  },
+  {
+    "id": "offer_1769694737492",
+    "title": "Swim Suite",
+    "description": "Best quality products which serves you for years.",
+    "categories": [
+      "Sport"
+    ]
+  },
+  {
+    "id": "offer_1769694855900",
+    "title": "ABC",
+    "description": "Best book in the world.",
+    "categories": [
+      "Reading",
+      "Literature"
+    ]
+  }
+]
